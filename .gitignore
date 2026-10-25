@@ -1,9 +1,5 @@
-
 .env
 .venv/
 venv/
 __pycache__/
 *.pyc
-
-hasil_scraping.csv
-hasil_cleaning.csv
